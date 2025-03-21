@@ -21,8 +21,7 @@ This project contains secure, expandable stack implementations of strings in C, 
 gcc stack.c -o stack
 ./stack
 ```
-
-###💡 C++
+### 💡C++
 ```bash
 g++ -std=c++14 stack.cpp -o stack
 ./stack
