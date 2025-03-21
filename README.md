@@ -1,4 +1,4 @@
-![Screenshot (183)](https://github.com/user-attachments/assets/9afe94e6-11b0-4f37-893f-3ad7716928b4)# Secure Expandable Stack – C, C++, Java
+# Secure Expandable Stack – C, C++, Java
 
 This project contains secure, expandable stack implementations of strings in C, C++, and Java. Each version is built using manual array resizing, input validation, and memory-safe techniques, following software security best practices.
 
