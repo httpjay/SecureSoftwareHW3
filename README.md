@@ -35,6 +35,7 @@ java SecureStack
 ### 📌 Sample Output
 ![Screenshot (181)](https://github.com/user-attachments/assets/3667d452-b29c-4939-8885-4576df5be042)
 ![Screenshot (182)](https://github.com/user-attachments/assets/d00e76c9-4e05-4e64-b4a4-3b12af4ea957)
-![Java Output](output-java.png)
+![Java Output](![Uploading Screenshot (183).png…]()
+)
 
 
