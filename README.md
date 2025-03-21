@@ -31,3 +31,5 @@ g++ -std=c++14 stack.cpp -o stack
 javac SecureStack.java
 java SecureStack
 ```
+
+### 📌 Sample Output
