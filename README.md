@@ -44,4 +44,9 @@ java SecureStack
 ![Screenshot (183)](https://github.com/user-attachments/assets/d0e89ab4-3bbd-4479-82a3-87433b16138b)
 
 
+### 🧑 Authors
+Jay A Panchal & Jil P Makwana 
+Loyola Marymount University
+Secure Software Systems Assignment
+
 
