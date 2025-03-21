@@ -17,10 +17,10 @@ This project contains secure, expandable stack implementations of strings in C, 
 ## 🧪 How to Compile & Run
 
 ### 🔧 C
----
+'''bash
 gcc stack.c -o stack
 ./stack
----
+
 
 
 
