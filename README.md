@@ -33,3 +33,4 @@ java SecureStack
 ```
 
 ### 📌 Sample Output
+![C Output](output-c.png)
