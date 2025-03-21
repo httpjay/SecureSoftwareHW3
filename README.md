@@ -35,5 +35,4 @@ java SecureStack
 ### 📌 Sample Output
 ![Screenshot (181)](https://github.com/user-attachments/assets/3667d452-b29c-4939-8885-4576df5be042)
 
-![Uploading Screenshot (182).png…]()
 
