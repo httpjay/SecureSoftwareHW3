@@ -33,8 +33,14 @@ java SecureStack
 ```
 
 ### 📌 Sample Output
+
+### ☕ Java
 ![Screenshot (181)](https://github.com/user-attachments/assets/3667d452-b29c-4939-8885-4576df5be042)
+
+### 💡C++
 ![Screenshot (182)](https://github.com/user-attachments/assets/d00e76c9-4e05-4e64-b4a4-3b12af4ea957)
+
+### 🔧 C
 ![Screenshot (183)](https://github.com/user-attachments/assets/d0e89ab4-3bbd-4479-82a3-87433b16138b)
 
 
