@@ -22,3 +22,9 @@ gcc stack.c -o stack
 ./stack
 
 
+
+g++ -std=c++14 stack.cpp -o stack
+./stack
+
+
+
